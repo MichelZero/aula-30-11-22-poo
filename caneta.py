@@ -1,4 +1,8 @@
+###
+# autores:
 #
+# data: 30/11/2022
+
 class Caneta:
   def __init__(self, marca) -> None:
     self.__marca = marca

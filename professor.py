@@ -1,4 +1,8 @@
+###
+# autores:
 #
+# data: 30/11/2022
+
 class Professor:
   def __init__(self, nome) -> None:
     self.__nome = nome
