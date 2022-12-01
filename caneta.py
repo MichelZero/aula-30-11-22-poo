@@ -15,4 +15,5 @@ class Caneta:
     return self.__marca # retorna a marca da caneta
   
   def escrever(self): # método escrever 
+    # print("Caneta está escrevendo...") # escrevendo com caneta
     return "escrevendo com caneta..." # escrevendo com a caneta 
